@@ -1,0 +1,6 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=vxwm
+Comment=Versatile X Window Manager
+Exec=/home/bread/.xinitrc
+Type=XSession

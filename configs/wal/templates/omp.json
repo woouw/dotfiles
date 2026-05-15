@@ -1,0 +1,24 @@
+
+{
+  "palette": {
+    "bg": "{background}",
+    "fg": "{foreground}",
+    "accent": "{color4}",
+    "alt": "{color2}"
+  },
+  "blocks": [
+    {
+      "type": "prompt",
+      "alignment": "left",
+      "segments": [
+        {
+          "type": "path",
+          "style": "powerline",
+          "powerline_symbol": "",
+          "foreground": "p:bg",
+          "background": "p:accent"
+        }
+      ]
+    }
+  ]
+}
